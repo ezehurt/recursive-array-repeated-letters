@@ -1,0 +1,20 @@
+{
+  "name": "recursive-array-repeated-letters",
+  "version": "1.0.0",
+  "description": "Flat an multi level array of letters and return the repeated letters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezehurt/recursive-array-repeated-letters.git"
+  },
+  "author": "Ezequiel Julian Hurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezehurt/recursive-array-repeated-letters/issues"
+  },
+  "homepage": "https://github.com/ezehurt/recursive-array-repeated-letters#readme"
+}
